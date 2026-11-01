@@ -1,0 +1,19 @@
+# Local Python environment and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Jupyter temporary files and generated notebook copies
+.ipynb_checkpoints/
+*_executed.ipynb
+
+# Generated CAD exports and rendered previews
+*.step
+*.stp
+*.stl
+*_preview.png
+*_braces.png
+
+# macOS metadata
+.DS_Store
